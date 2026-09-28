@@ -15,6 +15,17 @@
 
 Sou um desenvolvedor apaixonado por criar experiências digitais de alto impacto, com foco em interfaces modernas e aplicações escaláveis. Trabalho com tecnologias do ecossistema **JavaScript/TypeScript**, tanto no front-end web quanto no desenvolvimento mobile, além de back-end, banco de dados e cloud.
 
+Gosto de acompanhar um produto do início ao fim: da interface que o usuário toca até a API, o banco de dados e o deploy em produção.
+
+- 🌐 **Web** — aplicações com **React** e **Next.js**, com foco em performance, SEO e interfaces responsivas e acessíveis
+- 📱 **Mobile** — apps multiplataforma com **React Native**, entregando experiência nativa para Android e iOS a partir de uma única base de código
+- ⚙️ **Back-end** — APIs em **Node.js** com **Prisma** e **PostgreSQL**, priorizando modelagem de dados bem estruturada e código tipado de ponta a ponta
+- ☁️ **Cloud & Deploy** — publicação e escala de aplicações na **Vercel**, **Google Cloud** e **AWS**
+
+💡 Acredito que um bom software une código limpo, boa experiência de uso e decisões técnicas pensadas para crescer junto com o negócio.
+
+🌱 Sempre estudando e explorando novas ferramentas para entregar soluções cada vez melhores.
+
 ---
 
 ## 🚀 Tecnologias
